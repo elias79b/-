@@ -4,3 +4,7 @@ const مثل var می باشد فرقی که دارد فقط می توان یک 
 final مثل const است 
 const => compail بررسی می شود
 final => runtime بررسی می شود
+/////////////////////////////
+if 
+switchخطی
+
